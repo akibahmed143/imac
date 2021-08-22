@@ -1,0 +1,22 @@
+
+.cart-item h5{
+    padding: 0 45px;
+	font-weight: 500;
+}
+.btn-default{
+	background-color: #fff;
+}
+.input-group{
+	width: unset;
+	flex-wrap: nowrap;
+}
+.status{
+	text-align: right;
+}
+.check-out{
+    float: right;
+    padding: 10px 30px;
+	font-size: 19px;
+	background-color: #2FBE70;
+	border: none;
+}
